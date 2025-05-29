@@ -1,0 +1,1 @@
+const itsAnAny: $FixMe = "";

@@ -1,0 +1,10 @@
+{
+  "name": "tsgo-glob-bug",
+  "version": "1.0.0",
+  "main": "index.ts",
+  "license": "MIT",
+  "dependencies": {
+    "@typescript/native-preview": "^7.0.0-dev.20250529.1",
+    "typescript": "^5.8.3"
+  }
+}

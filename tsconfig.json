@@ -1,0 +1,6 @@
+{
+    "include": ["index.ts", "ambient-types/common.d.ts"],
+    "compilerOptions": {
+        "allowJs": true,
+    }
+}

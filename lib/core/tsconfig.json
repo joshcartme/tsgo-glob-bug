@@ -1,0 +1,6 @@
+{
+    "include": ["index.ts", "../../ambient-types/*"],
+    "compilerOptions": {
+        "allowSyntheticDefaultImports": true
+    }
+}
